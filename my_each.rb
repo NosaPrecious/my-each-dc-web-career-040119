@@ -6,9 +6,7 @@ def my_each(arr) # put argument(s) here
     yield arr[count]
     count+= 1
   end
-  
   arr 
-  
 else
   "not called on block"
 end
