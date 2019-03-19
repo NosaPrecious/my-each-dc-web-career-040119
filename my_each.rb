@@ -9,3 +9,4 @@ def my_each(arr) # put argument(s) here
 else
   puts "not called on block"
 end
+end
