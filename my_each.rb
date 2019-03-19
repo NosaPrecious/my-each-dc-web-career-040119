@@ -7,6 +7,6 @@ def my_each(arr) # put argument(s) here
     count+= 1
   end
 else
-  puts "not called on block"
+  "not called on block"
 end
 end
